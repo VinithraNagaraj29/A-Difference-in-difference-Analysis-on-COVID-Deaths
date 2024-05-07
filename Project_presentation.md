@@ -336,6 +336,7 @@ policies, travel rates and as more information was released regarding
 the vaccine and its effectiveness.
 
 ![Table1](https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/main/Tables/Table1.png?raw=true)
+
 Table 1: Summary statistics of Vaccine penetration data
 
 Looking at the summary statistics of the distribution of vaccination
@@ -354,6 +355,7 @@ transcribed on 2D maps to visualize the changes over time and help with
 a visual comparison with other demographic variables.
 
 ![Figure2](https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/main/Visualizations/Heatmap%20of%20Fully%20Vaccinated%20as%20a%20%25%20of%20population%20at%20county%20level(June2021-April2022).png?raw=true)
+
 Figure 2: Heatmap of Fully Vaccinated as a % of Population at the County
 Level (June 2021 - April 2022)
 
@@ -398,6 +400,7 @@ rate is calculated to aid the comparative study between the varied
 population groups across counties.
 
 ![Table2](https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/main/Tables/Table2.png?raw=true)
+
 Table 2: Summary statistics of the COVID Deaths per 100K across US
 counties
 
@@ -409,6 +412,7 @@ and is concentrated around the mean.
 **3.2.1 Geospatial representation of COVID deaths**
 
 ![Figure3](https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/main/Visualizations/County-level%20impact%20of%20COVID.png?raw=true)
+
 Figure 3: County-Level impact of COVID
 
 The first striking detail about this map is that COVID-19 Deaths Per
@@ -433,6 +437,7 @@ field Republican share was calculated for each county as a percentage of
 total votes to highlight the partisan difference measure.
 
 ![Figure4](https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/main/Visualizations/County%20level%202020%20presidential%20election%20vote%20share%20for%20Republiican%20party.png?raw=true)
+
 Figure 4: County-Level 2020 Presidential Election Vote Share for the
 Republican Party
 
@@ -463,6 +468,7 @@ other demographic measures from the estimates for the years 2020 and
 2021 was that the data would include the effect of the pandemic.
 
 ![Table3](https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/main/Tables/Table3.png?raw=true)
+
 Table 3: Summary Statistics of Demographic Variables
 
 The descriptive statistics of the variables sourced from the Census
@@ -500,6 +506,7 @@ representation is leveraged. This allows for viewing the demographic
 data in US maps layered as counties.
 
 ![Figure5](https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/main/Visualizations/County%20level%20Maps%20of%20demographic%20data.png?raw=true)
+
 Figure 5: County-Level Maps of Demographic Data
 
 ![Figure6](https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/main/Visualizations/Correlation%20plot%20of%20Covid%20Deaths%20per%20100K.png?raw=true)
@@ -584,6 +591,7 @@ paths and unidirectional arrows for the relationship among the variables
 included.
 
 ![Figure7](https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/main/Visualizations/Directed%20Acyclic%20graph-%20Causal%20inference%20diagram.png?raw=true)
+
 Figure 7: Directed Acyclic Graph - Causal Inference Diagram
 
 In the following sections we study the relationship of the variables
@@ -622,6 +630,7 @@ when compared to a county like Dickey in North Dakota where there are 48
 deaths against 4,872 people.
 
 ![Figure8](https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/main/Visualizations/Correlation%20between%20COVID%20Deaths%20per%20100K%20and%20fully%20vaccinated%20%25%20of%20population.png?raw=true)
+
 Figure 8: Correlation between COVID Deaths Per 100K and Fully Vaccinated
 % of Population
 
@@ -656,6 +665,7 @@ difference being the percentage of vaccination rates, captures the
 marginal effects of vaccines in reducing deaths.
 
 ![Table4](https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/main/Tables/Table4.png?raw=true)
+
 Table 4: The Effect of Full Vaccination on COVID-19 Deaths Per 100K at
 the County Level
 
@@ -703,6 +713,7 @@ section is used for this analysis against the dependent variable
 vaccination percentages in the three selected time periods.
 
 ![Figure9](https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/main/Visualizations/Correlation%20between%20vote%20share%20for%20Republican%20party%20and%20fully%20vaccinated%20%25%20of%20population%20as%20of%20Jan%202022.png?raw=true)
+
 Figure 9: Correlation between Vote Share for the Republican Party and
 Fully Vaccinated % of Population as of January 2022
 
@@ -718,6 +729,7 @@ to have unbiased results when comparing counties with varied
 characteristics.
 
 ![Table5](https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/main/Tables/Table5.png?raw=true)
+
 Table 5: The Effect of 2020 Republican Vote Shares on Vaccination Rates
 in September, January, and April[^3]
 
@@ -779,6 +791,7 @@ Republican share. The correlation plot to view this relationship is
 shown in Figure 10.
 
 ![Figure10](https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/main/Visualizations/Correlation%20between%20Vote%20share%20for%20Republican%20Party%20and%20COVID%20Deaths%20per%20100K.png?raw=true)
+
 Figure 10: Correlation between Vote Share for the Republican Party and
 COVID Deaths Per 100K
 
@@ -789,6 +802,7 @@ correlation plot. Similar to previous models run, the demographic
 control variables are added to the model presented below.
 
 ![Table6](https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/main/Tables/Table6.png?raw=true)
+
 Table 6: The Effect of Republican Vote Share on COVID-19 Deaths Per
 100K[^4]
 
@@ -825,6 +839,7 @@ between the change in support for the Republican party between the 2016
 and 2020 elections and COVID-19 Deaths in December 2021.
 
 ![Figure11](https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/main/Visualizations/Correlation%20between%20change%20in%20Republican%20share%20from%202016-2020%20and%20COVID-19%20deaths%20as%20of%20December%202021.png?raw=true)
+
 Figure 11: Correlation between Change in Republican Share from 2016
 -2020 and COVID-19 Deaths as of December 2021
 
@@ -860,6 +875,7 @@ the Republican party.
 The table below shows the results of the models (7) and (8).
 
 ![Table7](https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/main/Tables/Table7.png?raw=true)
+
 Table 7: Difference-in-Difference Estimates of the Effect of Republican
 Party Support on Normalized COVID-19 Deaths Per 100K[^5]
 
