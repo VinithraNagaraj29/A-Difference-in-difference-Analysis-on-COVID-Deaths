@@ -510,7 +510,6 @@ data in US maps layered as counties.
 Figure 5: County-Level Maps of Demographic Data
 
 ![Figure6](https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/main/Visualizations/Correlation%20plot%20of%20Covid%20Deaths%20per%20100K.png?raw=true)
-height="3.2567858705161856in"}
 
 Figure 6: Correlation Plot of COVID Deaths Per 100K, Republican Share,
 Density, Income, Percent Population Above 65, and Percent White
