@@ -1,6 +1,3 @@
-*******  Fatal Political Beliefs: Can Support for the Republican Party Explain
-COVID-19 Deaths in the US? A Difference-in-Difference Analysis  *******
-
 **A Project Presented to**
 
 **The Faculty of the Department of Industrial and Systems Engineering**
