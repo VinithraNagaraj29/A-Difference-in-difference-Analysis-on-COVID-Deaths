@@ -315,7 +315,8 @@ dependability of the public to get fully vaccinated to avoid new
 variants from emerging, the US lays low in the total number of vaccine
 doses administered.
 
-![](media/image1.png){width="6.65625in" height="4.695390419947507in"}
+[[Figure1]{.underline}]
+(https://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/8f8a7cd138b5426ce49bf9abee065f111535e143/Visualizations/Vaccine%20Does%20Administered%20per%20100%20peope%20(June%202021-%20April%202022).pnghttps://github.com/VinithraNagaraj29/Data-Analytics--Project/blob/8f8a7cd138b5426ce49bf9abee065f111535e143/Visualizations/Vaccine%20Does%20Administered%20per%20100%20peope%20(June%202021-%20April%202022).png)
 
 Figure 1: Vaccination Doses Administered Per 100 People, High and Upper
 Middle-Income Countries, (June 2021 - April 2022)
